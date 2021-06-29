@@ -16,7 +16,7 @@
  	        str[j]=temp;
 	     }
 
-	cout<<"Sorting  in alpha"<<endl;
+	cout<<"Sorting  in alphabetical order"<<endl;
 	for(int i=0;i<5;i++)
 	cout<<str[i]<<endl;
 	return 0;
